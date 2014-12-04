@@ -7,6 +7,8 @@ GermanDev.keylayout is a customized German QUERTZ keyboard layout designed for s
 `⌥` + `j` = `{`
 `⌥` + `k` = `}`
 
+![Alt text](/howto.jpg?raw=true "GermanDev difference")
+
 ##Installation
 1. Put a copy of GermanDev.keylayout and GermanDev.icns into your '/Library/Keyboard Layouts' folder.
 2. open _System Preferences_
