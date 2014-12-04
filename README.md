@@ -3,8 +3,11 @@
 GermanDev.keylayout is a customized German QUERTZ keyboard layout designed for software development on Macs. Pressing one of the option keys while typing 'd', 'f', 'j' or 'k' will give you square braces (eckige Klammern) and curly braces (Mengenklammern).
 
 `⌥` + `d` = `[`
+
 `⌥` + `f` = `[`
+
 `⌥` + `j` = `{`
+
 `⌥` + `k` = `}`
 
 ![Alt text](/howto.jpg?raw=true "GermanDev difference")
